@@ -1,0 +1,5 @@
+api_key: "xxxxxx"
+search_api: "https://www.virustotal.com/api/v3/intelligence/search?query=%s&descriptors_only=true&limit=%d&first_submission_date-"
+download_api: "https://www.virustotal.com/api/v3/files/%s/download"
+limit: 200
+proxy: "http://127.0.0.1:10808"
